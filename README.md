@@ -59,7 +59,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/RahanBenabid/RahanBenabid/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/RahanBenabid/RahanBeanbid/blob/output/github-contribution-grid-snake2.svg)
 
 ###
 
