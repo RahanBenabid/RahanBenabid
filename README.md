@@ -59,7 +59,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/RahanBenabid/RahanBenabid/main/snake.yml" alt="Snake animation" />
+<img src="https://github.com/RahanBenabid/RahanBenabid/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
 
