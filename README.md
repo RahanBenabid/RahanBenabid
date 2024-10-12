@@ -1,16 +1,18 @@
-<h2 align="left">Hi 👋! My name is Rahan Benabid</h2>
+<h2 align="center">Hallo!!! My name is Rahan Benabid</h2>
 
-<p align="left">I'm a recent graduate with a Bachelor's degree in Computer Science. I specialize in backend development and have hands-on experience working with web technologies like Node.js and Swift Vapor. I've also developed collaborative projects like an E-learning platform and a companion iOS app for a backend system. I'm eager to continue growing my skills and apply my knowledge to impactful projects!</p>
-
-###
-
-<img src="https://i.imgflip.com/65efzo.gif" alt="programming gif" style="float: right; height: 150px; width: auto;" />
+<p align="left">I'm a recent graduate with a Bachelor's degree in Computer Science. I specialize in backend development and have hands-on experience working with web technologies like Node.js and Swift Vapor. I've also developed collaborative projects like an E-learning platform and a companion iOS app for a backend system. I'm hooked to continue growing my skills and apply my knowledge to impactful projects!</p>
 
 ###
 
-<div>
-  <img src="https://streak-stats.demolab.com?user=RahanBenabid&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RahanBenabid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" />
+<p align="center">
+  <img src="https://i.imgflip.com/65efzo.gif" alt="programming gif" style="height: 150px; width: auto;" />
+</p>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=RahanBenabid&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" alt="streak graph" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RahanBenabid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" height="180" />
 </div>
 
 ###
