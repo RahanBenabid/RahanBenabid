@@ -1,4 +1,4 @@
-<h2 align="center">Hallo!!! My name is Rahan Benabid</h2>
+<h2 align="center">Hi! I'm Rahan</h2>
 
 <p align="left">I'm a recent graduate with a Bachelor's degree in Computer Science. I specialize in backend development and have hands-on experience working with web technologies like Node.js and Swift Vapor. I've also developed collaborative projects like an E-learning platform and a companion iOS app for a backend system. I'm hooked to continue growing my skills and apply my knowledge to impactful projects!</p>
 
