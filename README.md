@@ -1,6 +1,6 @@
 <h2 align="center">Hi! I'm Rahan</h2>
 
-<h6 align="center">I'm a recent graduate with a Bachelor's degree in Computer Science.</br> I specialize in backend development and have hands-on experience </br> working with web technologies like Node.js and Swift Vapor.</br> I've also developed collaborative projects like an E-learning platform and </br> a companion iOS app for a backend system, and the backend system in question (in Swift). </br> I'm hooked to continue growing my skills and apply my knowledge to impactful projects!</h6>
+<h5 align="center">I'm a recent graduate with a Bachelor's degree in Computer Science.</br> I specialize in backend development and have hands-on experience </br> working with web technologies like Node.js and Swift Vapor.</br> I've also developed collaborative projects like an E-learning platform and </br> a companion iOS app for a backend system, and the backend system in question (in Swift). </br> I'm hooked to continue growing my skills and apply my knowledge to impactful projects!</h5>
 
 ###
 
