@@ -28,6 +28,11 @@
     <img src="https://moe-counter.glitch.me/get/@osiristape?theme=rule34"/>
 </p>
 
+<div align="center">
+  <a href="https://rahanbenabid.github.io/Resume/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website" />
+  </a>
+</div>
 
 
 ###
