@@ -66,11 +66,6 @@
   
   <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FRahanBenabid" alt="Public Repositories"/>
 
-<br/>
-  
-  <img src="https://img.shields.io/github/commit-activity/m/RahanBenabid/RahanBenabid?style=for-the-badge&color=green" alt="Monthly Commits"/>
-  
-  <img src="https://img.shields.io/github/last-commit/RahanBenabid/RahanBenabid?style=for-the-badge&color=blue" alt="Last Commit"/>
 </div>
 
 
