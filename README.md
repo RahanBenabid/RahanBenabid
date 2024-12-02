@@ -65,7 +65,16 @@
   <img src="https://img.shields.io/github/sponsors/RahanBenabid?style=social" alt="GitHub Sponsors"/>
   
   <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FRahanBenabid" alt="Public Repositories"/>
+
+<br/>
+  
+  <img src="https://img.shields.io/github/commit-activity/m/RahanBenabid/RahanBenabid?style=for-the-badge&color=green" alt="Monthly Commits"/>
+  
+  <img src="https://img.shields.io/github/last-commit/RahanBenabid/RahanBenabid?style=for-the-badge&color=blue" alt="Last Commit"/>
 </div>
+
+
+
 
 
 
@@ -74,12 +83,14 @@
 
 <details>
   <summary>GitHub Stats</summary>
-  <div align="center">
-    <img src="https://streak-stats.demolab.com?user=RahanBenabid&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" alt="streak graph" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RahanBenabid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" height="180" />
-    <a href="https://github.com/RahanBenabid">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahanBenabid&theme=dracula" alt="My GitHub Contribution"/>
-    </a>
+  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=RahanBenabid&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=default" alt="GitHub Stats" style="height: 180px; width: 47%; object-fit: cover;" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahanBenabid&layout=compact&hide_title=true&hide_border=true&langs_count=6&theme=default" alt="Top Languages" style="height: 180px; width: 47%; object-fit: cover;" />    
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RahanBenabid&theme=default" alt="Productive Time" style="height: 180px; width: 47%; object-fit: cover;" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahanBenabid&hide_border=true&theme=default" alt="Contribution Streak" style="height: 180px; width: 47%; object-fit: cover;" />
   </div>
 </details>
 
