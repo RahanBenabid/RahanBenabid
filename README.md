@@ -1,6 +1,13 @@
 <h2 align="center">Hi! I'm Rahan</h2>
 
-<h5 align="center">I'm a recent graduate with a Bachelor's degree in Computer Science.</br> I specialize in backend development and have hands-on experience </br> working with web technologies like Node.js and Swift Vapor.</br> I've also developed collaborative projects like an E-learning platform and </br> a companion iOS app for a backend system, and the backend system in question (in Swift). </br> I'm hooked to continue growing my skills and apply my knowledge to impactful projects!</h5>
+<p align="center">
+    I'm a recent graduate with a Bachelor's degree in Computer Science.<br>
+    I specialize in <strong>backend development</strong> and have hands-on experience 
+    <br> with technologies such as <code>Node.js</code> , <code>Swift</code>, and <code>Python</code>.<br>
+    Additionally, I've developed several <strong>applications</strong> using <code>SwiftUI</code>.<br>
+    I am eager to continue growing my skills and applying my knowledge to impactful projects.
+</p>
+
 
 ###
 
@@ -68,13 +75,30 @@
 
 </div>
 
-
-
-
-
-
-
 ###
+
+<details>
+  <summary>Contact Me</summary>
+
+<div align="left">
+  <a href="https://www.youtube.com/@rahani-kv1ks" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/rahanbenabid/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
+  </a>
+  <a href="mailto:rahannadime@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/rahan-mohamed-nadim-benabid-625659256/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
+  </a>
+  <a href="https://t.me/rahanbenabid" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"/>
+  </a>
+</div>
+</details>
+
 
 <details>
   <summary>GitHub Stats</summary>
@@ -89,28 +113,6 @@
   </div>
 </details>
 
-<details>
-  <summary>Contact Me</summary>
-
-<div align="center">
-  <a href="https://www.youtube.com/@rahani-kv1ks" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/rahanbenabid/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
-  </a>
-  <a href="mailto:rahannadime@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <br/>
-  <a href="https://www.linkedin.com/in/rahan-mohamed-nadim-benabid-625659256/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
-  </a>
-  <a href="https://t.me/rahanbenabid" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"/>
-  </a>
-</div>
-</details>
 
 <details>
   <summary>Click for Something Cool!</summary>
