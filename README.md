@@ -27,6 +27,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/dmhendricks/file-icon-vectors/refs/heads/master/dist/icons/classic/applescript.svg" height="30" alt="applescript logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/odb/official-bash-logo/refs/heads/master/assets/Logos/Icons/SVG/128x128.svg" height="30" alt="applescript logo"  />
+    
 </div>
 
 ###
@@ -81,9 +86,6 @@
   <summary>Contact Me</summary>
 
 <div align="left">
-  <a href="https://www.youtube.com/@rahani-kv1ks" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
   <a href="https://www.instagram.com/rahanbenabid/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
   </a>
@@ -100,16 +102,43 @@
 </details>
 
 
-<details>
-  <summary>GitHub Stats</summary>
-  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=RahanBenabid&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=default" alt="GitHub Stats" style="height: 180px; width: 47%; object-fit: cover;" />
+<details class="w-full max-w-4xl mx-auto p-4 bg-white rounded-lg shadow-md">
+  <summary class="text-xl font-semibold cursor-pointer hover:text-blue-600 transition-colors duration-200">
+    ✨ GitHub Stats & Activity
+  </summary>
+  
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-4 p-4 bg-gray-50 rounded-lg">
+    <div class="transform hover:scale-[1.02] transition-transform duration-200">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=RahanBenabid&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=default&bg_color=ffffff&border_radius=10" 
+        alt="GitHub Stats"
+        class="w-full h-[180px] rounded-lg shadow-sm"
+      />
+    </div>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahanBenabid&layout=compact&hide_title=true&hide_border=true&langs_count=6&theme=default" alt="Top Languages" style="height: 180px; width: 47%; object-fit: cover;" />    
+<div class="transform hover:scale-[1.02] transition-transform duration-200">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahanBenabid&layout=compact&hide_title=true&hide_border=true&langs_count=6&theme=default&bg_color=ffffff&border_radius=10" 
+        alt="Top Languages"
+        class="w-full h-[180px] rounded-lg shadow-sm"
+      />
+    </div>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RahanBenabid&theme=default" alt="Productive Time" style="height: 180px; width: 47%; object-fit: cover;" />
+<div class="transform hover:scale-[1.02] transition-transform duration-200">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RahanBenabid&theme=default" 
+        alt="Productive Time"
+        class="w-full h-[180px] rounded-lg shadow-sm"
+      />
+    </div>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahanBenabid&hide_border=true&theme=default" alt="Contribution Streak" style="height: 180px; width: 47%; object-fit: cover;" />
+<div class="transform hover:scale-[1.02] transition-transform duration-200">
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=RahanBenabid&hide_border=true&theme=default&background=ffffff&border_radius=10" 
+        alt="Contribution Streak"
+        class="w-full h-[180px] rounded-lg shadow-sm"
+      />
+    </div>
   </div>
 </details>
 
