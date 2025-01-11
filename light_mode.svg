@@ -59,7 +59,7 @@
         <!-- Languages -->
         <g transform="translate(0,160)">
             <text>
-                <tspan x="0" y="0"><tspan class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">JavaScript, Swift, Python, C++, AppleScript, Shell Script</tspan></tspan>
+                <tspan x="0" y="0"><tspan class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">/JS, Swift, Py, C++, AppleScript, Shell</tspan></tspan>
                 <tspan x="0" y="20"><tspan class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, XML, LaTeX, Markdown</tspan></tspan>
                 <tspan x="0" y="40"><tspan class="keyColor">Languages</tspan>.<tspan class="keyColor">IRL</tspan>: <tspan class="valueColor">English, French, Arabic</tspan></tspan>
             </text>
@@ -89,8 +89,8 @@
             <text>
                 <tspan x="0" y="0"><tspan class="keyColor">GitHub Stats</tspan>:</tspan>
                 <tspan x="0" y="20">——————</tspan>
-                <tspan x="0" y="40"><tspan class="keyColor">Repos</tspan>: <tspan class="valueColor">27</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">20</tspan>} | <tspan class="keyColor">Commits</tspan>: <tspan class="valueColor">360</tspan> | <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">12</tspan></tspan>
-                <tspan x="0" y="60"><tspan class="keyColor">Followers</tspan>: <tspan class="valueColor">27</tspan> | <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">56,842</tspan> (<tspan class="addColor">61,460++</tspan>, <tspan class="delColor">5,508--</tspan>)</tspan>
+                <tspan x="0" y="40"><tspan class="keyColor">Repos</tspan>: <tspan class="valueColor">32</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">32</tspan>} | <tspan class="keyColor">Commits</tspan>: <tspan class="valueColor">450</tspan> | <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">49</tspan></tspan>
+                <tspan x="0" y="60"><tspan class="keyColor">Followers</tspan>: <tspan class="valueColor">50</tspan> | <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">56,842</tspan> (<tspan class="addColor">61,460++</tspan>, <tspan class="delColor">5,508--</tspan>)</tspan>
             </text>
         </g>
     </g>
