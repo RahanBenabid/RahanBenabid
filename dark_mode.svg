@@ -35,7 +35,7 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="90" class="keyColor">Alive</tspan>: <tspan class="valueColor">almost 21 years</tspan>
 <tspan x="370" y="130" class="keyColor">Expertise</tspan>: <tspan class="valueColor">Software Development</tspan>
 <tspan x="370" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">CodeRunner, Zed</tspan>
-<tspan x="370" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">JavaScript, Swift, Python, C++, AppleScript, Shell Script</tspan>
+<tspan x="370" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">JS, Swift, Py, C++, AppleScript, Shell</tspan>
 <tspan x="370" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, XML, LaTeX, Markdown</tspan>
 <tspan x="370" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">IRL</tspan>: <tspan class="valueColor">English, French, Arabic</tspan>
 <tspan x="370" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Game Dev, Jailbreak</tspan>
@@ -47,7 +47,7 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="410" class="keyColor">Discord</tspan>: <tspan class="valueColor">rahanben</tspan>
 <tspan x="370" y="450" class="keyColor">GitHub Stats</tspan>:
 <tspan x="370" y="470">——————</tspan>
-<tspan x="370" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">27</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">20</tspan>}  | <tspan class="keyColor">Commits</tspan>: <tspan class="valueColor">360</tspan> | <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">12</tspan>
+<tspan x="370" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">32</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">32</tspan>}  | <tspan class="keyColor">Commits</tspan>: <tspan class="valueColor">450</tspan> | <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">49</tspan>
 <tspan x="370" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">27</tspan> | <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">56,842</tspan> (<tspan class="addColor">61,460++</tspan>, <tspan class="delColor">5,508--</tspan>)</text>
 
 </svg>
