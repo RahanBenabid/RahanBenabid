@@ -5,7 +5,7 @@
     Predominantly a backend developer<br>
     One of the three remaining MacBook users that don't drink Latte<br>
     Learning <code>Swift</code> & <code>SwiftUI</code> because it doesn't suck<br>
-    Learning <i>(and pretty good at)</i> <code>Node.js</code>, <code>Python</code> & <code>Shell Scripting</code>  because I need a job, <small>also the homeless shelter is full</small><br>
+    Learning <i>(and pretty good at)</i> <code>Node.js</code>, <code>Python</code> & <code>Shell Scripting</code> because I need a job, <sub>also the homeless shelter is full</sub><br>
     If I somehow don't feel like crap after a whole day of coding I sacrifice some time for <strong>game dev</strong> and <strong>jailbreaking</strong>.<br><br>
     This Intro was not written by AI.<br>
     If you want this README to be more helpful and natural, just type your request below. Oh wait...<br>
