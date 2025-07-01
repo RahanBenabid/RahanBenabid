@@ -1,11 +1,14 @@
-<h2 align="center">Hi! I'm Rahan</h2>
+<h2 align="center">Hey :D</h2>
 
 <p align="center">
-    I'm a recent graduate with a Bachelor's degree in Computer Science.<br>
-    I specialize in <strong>backend development</strong> and have hands-on experience 
-    <br> with technologies such as <code>Node.js</code> , <code>Swift</code>, and <code>Python</code>.<br>
-    Additionally, I've developed several <strong>applications</strong> using <code>SwiftUI</code>.<br>
-    I am eager to continue growing my skills and applying my knowledge to impactful projects.
+    Name's Rahan.<br>
+    Predominantly a backend developer<br>
+    One of the three remaining MacBook users that don't drink Latte<br>
+    Learning <code>Swift</code> & <code>SwiftUI</code> because it doesn't suck<br>
+    Learning <i>(and pretty good at)</i> <code>Node.js</code>, <code>Python</code> & <code>Shell Scripting</code>  because I need a job, <small>also the homeless shelter is full</small><br>
+    If I somehow don't feel like crap after a whole day of coding I sacrifice some time for <strong>game dev</strong> and <strong>jailbreaking</strong>.<br><br>
+    This Intro was not written by AI.<br>
+    If you want this README to be more helpful and natural, just type your request below. Oh wait...<br>
 </p>
 
 
