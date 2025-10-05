@@ -24,7 +24,7 @@ If you want this README to be more helpful and natural, just type your request b
 
 ###
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
@@ -36,7 +36,6 @@ If you want this README to be more helpful and natural, just type your request b
   <img src="https://raw.githubusercontent.com/dmhendricks/file-icon-vectors/refs/heads/master/dist/icons/classic/applescript.svg" height="30" alt="applescript logo" />
   <img src="https://raw.githubusercontent.com/odb/official-bash-logo/refs/heads/master/assets/Logos/Icons/SVG/128x128.svg" height="30" alt="bash logo" />
 </p>
--->
 
 ###
 
