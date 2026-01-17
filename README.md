@@ -7,10 +7,10 @@
     <td width="450">
 Name's Rahan.<br><br>
 Predominantly a <strong>Backend Developer</strong><br>
-One of the three remaining MacBook users that don't drink Latte<br><br>
-Learning <code>Swift</code> & <code>SwiftUI</code> because it doesn't suck<br><br>
-Learning <i>(and pretty good at)</i> <code>Node.js</code>, <code>Python</code> & <code>Shell Scripting</code> because I need a job <sub>also the homeless shelter is full</sub><br><br>
-If I somehow don't feel like crap after a whole day of coding I sacrifice some time for <strong>Game Dev</strong> and <strong>Jailbreaking</strong>.<br><br>
+Burned out in case you don't read GitHub profile status<br><br>
+Learning <code>Swift</code> & <code>SwiftUI</code> because it doesn't suck, I such at it tho<br><br>
+Learning <i>(and pretty decent at)</i> <code>Node.js</code>, <code>Python</code> & <code>Shell Scripting</code> because I need a job <sub>and it keeps me busy in unemployement</sub><br><br>
+If I somehow don't feel like crap after a whole day of coding I sacrifice some time for <strong>PlayDate Game Dev</strong> or tinker with <strong>Jailbreaking</strong>.<br><br>
 This Intro was not written by AI.<br>
 If you want this README to be more helpful and natural, just type your request below. Hold On...<br>
     </td>
@@ -148,7 +148,7 @@ If you want this README to be more helpful and natural, just type your request b
 
 
 <details>
-  <summary>Click for Something Cool!</summary>
+  <summary>Click for Something Cool! <sub>that I didn't steal</sub></summary>
 
   <a href="https://github.com/RahanBenabid/RahanBenabid">
   <picture>
