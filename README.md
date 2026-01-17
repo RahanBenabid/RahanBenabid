@@ -1,4 +1,4 @@
-<h2 align="center">Hey :D</h2>
+<h2 align="center">Heya :P</h2>
 
 <div align="center">
 
@@ -8,8 +8,8 @@
 Name's Rahan.<br><br>
 Predominantly a <strong>Backend Developer</strong><br>
 Burned out in case you don't read GitHub profile status<br><br>
-Learning <code>Swift</code> & <code>SwiftUI</code> because it doesn't suck, I such at it tho<br><br>
-Learning <i>(and pretty decent at)</i> <code>Node.js</code>, <code>Python</code> & <code>Shell Scripting</code> because I need a job <sub>and it keeps me busy in unemployement</sub><br><br>
+Learning <code>Swift</code> & <code>SwiftUI</code> because it doesn't suck... I such at it tho<br><br>
+Learning <i>(and pretty decent at)</i> <code>Node.js</code>, <code>Python</code> & <code>Shell Scripting</code> because I need a job <sub>and it keeps me busy in my unemployement</sub><br><br>
 If I somehow don't feel like crap after a whole day of coding I sacrifice some time for <strong>PlayDate Game Dev</strong> or tinker with <strong>Jailbreaking</strong>.<br><br>
 This Intro was not written by AI.<br>
 If you want this README to be more helpful and natural, just type your request below. Hold On...<br>
@@ -90,25 +90,28 @@ If you want this README to be more helpful and natural, just type your request b
   <summary>Contact Me</summary>
 
 <div align="left">
-  <a href="https://www.instagram.com/rahanbenabid/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
-  </a>
   <a href="mailto:rahannadime@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+  </a><br/>
   <a href="https://www.linkedin.com/in/rahan-mohamed-nadim-benabid-625659256/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
-  </a>
+  </a><br/>
   <a href="https://t.me/rahanbenabid" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"/>
-  </a>
+  </a><br/>
+  <a href="https://wa.me/+33631865554" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=3ac453&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Whatsapp logo"/>
+  </a><br/>
+    <a href="https://www.instagram.com/rahanbenabid/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
+  </a> <strong style="padding:20px">(I Don't use it anymore)</strong><br/>
 </div>
 </details>
 
 
 <details class="w-full max-w-4xl mx-auto p-4 bg-white rounded-lg shadow-md">
   <summary class="text-xl font-semibold cursor-pointer hover:text-blue-600 transition-colors duration-200">
-    ✨ GitHub Stats & Activity
+    Useless Stats to compare yourself with an unqualified developer... damn that was long:
   </summary>
   
   <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-4 p-4 bg-gray-50 rounded-lg">
@@ -148,7 +151,7 @@ If you want this README to be more helpful and natural, just type your request b
 
 
 <details>
-  <summary>Click for Something Cool! <sub>that I didn't steal</sub></summary>
+  <summary>Click for Something Cool! <sub>that I def didn't steal</sub></summary>
 
   <a href="https://github.com/RahanBenabid/RahanBenabid">
   <picture>
