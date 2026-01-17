@@ -8,7 +8,7 @@
 Name's Rahan.<br><br>
 Predominantly a <strong>Backend Developer</strong><br>
 Burned out in case you don't read GitHub profile status<br><br>
-Learning <code>Swift</code> & <code>SwiftUI</code> because it doesn't suck... I such at it tho<br><br>
+Learning <code>Swift</code> & <code>SwiftUI</code> because it doesn't suck... I suck at it tho<br><br>
 Learning <i>(and pretty decent at)</i> <code>Node.js</code>, <code>Python</code> & <code>Shell Scripting</code> because I need a job <sub>and it keeps me busy in my unemployement</sub><br><br>
 If I somehow don't feel like crap after a whole day of coding I sacrifice some time for <strong>PlayDate Game Dev</strong> or tinker with <strong>Jailbreaking</strong>.<br><br>
 This Intro was not written by AI.<br>
