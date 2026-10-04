@@ -1,4 +1,4 @@
-<h2 align="center">Heya :P</h2>
+<h2 align="center">Greetings</h2>
 
 <div align="center">
 
