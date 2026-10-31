@@ -63,7 +63,7 @@ If you want this README to be more helpful and natural, just type your request b
 
 <div align="center">
   <a href="https://open.spotify.com/user/rahan_ben">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=rahan_ben&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=rahan_ben&amp;count=6&amp;time=0" alt="Spotify recently played" width="400" />
   </a>
 </div>
 
