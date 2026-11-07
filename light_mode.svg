@@ -1,84 +1,155 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" 
-     font-family="Andale Mono,AndaleMono,Consolas,monospace" 
-     width="975" 
-     height="550" 
-     font-size="16">
-    
-    <!-- Styles -->
-    <style>
-        .keyColor { fill: #953800; }
-        .valueColor { fill: #0a3069; }
-        .addColor { fill: #1a7f37; }
-        .delColor { fill: #cf222e; }
-        .commentColor { fill: #8b949e; }
-        text, tspan { white-space: pre; }
-    </style>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  font-family="SF Mono,Andale Mono,AndaleMono,Consolas,monospace"
+  width="980"
+  height="480"
+  font-size="16"
+>
+  <!-- Styles -->
+  <style>
+    .keyColor {
+      fill: #953800;
+    }
 
-    <!-- Background -->
-    <rect width="970" height="530" fill="#f6f8fa" rx="15"/>
+    .valueColor {
+      fill: #0a3069;
+    }
 
-    <!-- ASCII Art Section -->
-    <g transform="translate(0,0)">
-        <text x="15" y="30" fill="#24292f" class="ascii">
-            <tspan x="15" y="30">⣇⣿⠘⣿⣿⣿⡿⡿⣟⣟⢟⢟⢝⠵⡝⣿⡿⢂⣼⣿⣷⣌⠩⡫⡻⣝⠹⢿⣿⣷</tspan>
-            <tspan x="15" y="50">⡆⣿⣆⠱⣝⡵⣝⢅⠙⣿⢕⢕⢕⢕⢝⣥⢒⠅⣿⣿⣿⡿⣳⣌⠪⡪⣡⢑⢝⣇</tspan>
-            <tspan x="15" y="70">⡆⣿⣿⣦⠹⣳⣳⣕⢅⠈⢗⢕⢕⢕⢕⢕⢈⢆⠟⠋⠉⠁⠉⠉⠁⠈⠼⢐⢕⢽</tspan>
-            <tspan x="15" y="90">⡗⢰⣶⣶⣦⣝⢝⢕⢕⠅⡆⢕⢕⢕⢕⢕⣴⠏⣠⡶⠛⡉⡉⡛⢶⣦⡀⠐⣕⢕</tspan>
-            <tspan x="15" y="110">⡝⡄⢻⢟⣿⣿⣷⣕⣕⣅⣿⣔⣕⣵⣵⣿⣿⢠⣿⢠⣮⡈⣌⠨⠅⠹⣷⡀⢱⢕</tspan>
-            <tspan x="15" y="130">⡝⡵⠟⠈⢀⣀⣀⡀⠉⢿⣿⣿⣿⣿⣿⣿⣿⣼⣿⢈⡋⠴⢿⡟⣡⡇⣿⡇⡀⢕</tspan>
-            <tspan x="15" y="150">⡝⠁⣠⣾⠟⡉⡉⡉⠻⣦⣻⣿⣿⣿⣿⣿⣿⣿⣿⣧⠸⣿⣦⣥⣿⡇⡿⣰⢗⢄</tspan>
-            <tspan x="15" y="170">⠁⢰⣿⡏⣴⣌⠈⣌⠡⠈⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣬⣉⣉⣁⣄⢖⢕⢕⢕</tspan>
-            <tspan x="15" y="190">⡀⢻⣿⡇⢙⠁⠴⢿⡟⣡⡆⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣵⣵⣿</tspan>
-            <tspan x="15" y="210">⡻⣄⣻⣿⣌⠘⢿⣷⣥⣿⠇⣿⣿⣿⣿⣿⣿⠛⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
-            <tspan x="15" y="230">⣷⢄⠻⣿⣟⠿⠦⠍⠉⣡⣾⣿⣿⣿⣿⣿⣿⢸⣿⣦⠙⣿⣿⣿⣿⣿⣿⣿⣿⠟</tspan>
-            <tspan x="15" y="250">⡕⡑⣑⣈⣻⢗⢟⢞⢝⣻⣿⣿⣿⣿⣿⣿⣿⠸⣿⠿⠃⣿⣿⣿⣿⣿⣿⡿⠁⣠</tspan>
-            <tspan x="15" y="270">⡝⡵⡈⢟⢕⢕⢕⢕⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣿⣿⣿⣿⣿⠿⠋⣀⣈⠙</tspan>
-            <tspan x="15" y="290">⡝⡵⡕⡀⠑⠳⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⢉⡠⡲⡫⡪⡪⡣</tspan>
-        </text>
+    .addColor {
+      fill: #1a7f37;
+    }
+
+    .delColor {
+      fill: #cf222e;
+    }
+
+    .commentColor {
+      fill: #8b949e;
+    }
+
+    .ascii tspan {
+      white-space: pre;
+    }
+  </style>
+
+  <!-- Background -->
+  <rect width="980" height="480" fill="#f6f8fa" rx="15" />
+
+  <!-- ASCII Art Section -->
+  <g class="ascii" transform="translate(0,20)">
+    <text fill="#0a3069">
+      <tspan x="30" y="00">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⠠⠤⠐⠒⠀⠤⢄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+      <tspan x="30" y="20">⠀⠀⠀⠀⠀⠀⠀⢀⠤⠒⠊⠁⠀⠀⠀⠀⠀⠀⠀⠀⠈⠑⠢⢄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+      <tspan x="30" y="40">⠀⠀⠀⠀⠀⠀⡴⠁⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠲⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+      <tspan x="30" y="60">⠀⠀⠀⠀⠀⢰⠀⠀⠀⠐⢠⠬⠬⠭⠭⢒⣒⠠⠤⠄⣀⡀⠀⠀⠀⠀⠘⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+      <tspan x="30" y="80">⠀⠀⠀⠀⠀⠈⠀⠀⠀⠐⠋⠉⠉⠑⠒⠢⠤⢉⣒⡒⠒⠬⠕⣒⠤⢄⡀⠘⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+      <tspan x="30" y="100">⠀⠀⠀⠀⠀⡇⠀⠀⢀⠄⠒⠂⠠⠤⠤⡀⠀⠀⠀⠈⠉⠉⠉⠒⠺⠕⠈⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+      <tspan x="30" y="120">⠀⠀⠀⠀⠀⠇⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⢀⣀⣀⣀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+      <tspan x="30" y="140">⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⢖⣶⣶⠨⣦⢠⠀⠀⣄⣁⠤⠀⠀⠉⠲⠀⢠⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+      <tspan x="30" y="160">⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠁⢸⡄⠀⠷⣊⣿⣿⢽⠀⠀⠀⣘⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+      <tspan x="30" y="180">⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡎⠀⢸⠀⠀⠉⠉⠀⠀⠀⢀⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+      <tspan x="30" y="200">⠀⠀⠀⠀⠸⡀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠊⠀⠀⠘⡄⠀⠀⠀⠀⠀⠀⡸⠁⠀⠀⠀⠀⠀⠀⢀⠤⠤⠔⣪⠃</tspan>
+      <tspan x="30" y="220">⠀⠀⠀⠀⠸⣷⠀⠀⠀⠀⠀⠀⠀⠀⠸⡀⣀⡀⠀⡸⠀⠀⠀⠀⠀⠀⠇⠀⠀⣀⣀⠶⠆⠉⠁⠀⠀⢎⠀⠀</tspan>
+      <tspan x="30" y="240">⠀⠀⢀⡠⢳⣿⣰⢂⠀⠀⠀⠀⠀⢀⢀⠀⢀⡈⠉⡀⠀⠀⠀⠀⢠⡸⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠱⡄⠀</tspan>
+      <tspan x="30" y="260">⠒⠉⠀⠀⢡⡛⣫⣫⣯⡀⠀⡄⣠⠎⢘⣤⣨⣾⣧⢱⣄⠀⠀⢈⡗⠁⠀⠀⠀⠀⠀⠀⠀⠀⣀⠤⠒⠤⠕⠀</tspan>
+      <tspan x="30" y="280">⠀⠀⠀⠀⠸⠒⠝⣗⢃⢑⠺⠃⠀⣶⣿⣿⣿⣿⣿⡆⣈⣆⢴⠏⠀⠀⠀⠀⠀⠀⠀⢀⡴⠊⠀⠀⠀⠀⠀⠀</tspan>
+      <tspan x="30" y="300">⠀⠀⠀⠀⠀⠀⠈⢹⡯⡌⠙⠀⠀⠹⡛⢿⣿⣿⡿⠀⣹⣧⡋⠁⠀⠀⠀⠀⠀⣠⠔⠁⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+      <tspan x="30" y="320">⠀⠀⠀⠀⠀⠀⠀⠀⠓⢻⣧⡀⠀⠀⠈⠒⠒⠊⠁⣄⡟⠁⠁⠀⠀⠀⠀⢀⠔⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+      <tspan x="30" y="340">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠯⢷⢄⡆⣦⠀⣠⡰⢕⠟⠀⠀⠀⠀⠀⠀⡴⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+      <tspan x="30" y="360">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠊⠋⠛⠹⠏⠁⠀⠀⠀⠀⠀⢀⠔⠊⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+      <tspan x="30" y="380">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠎⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+      <tspan x="30" y="400">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+      <tspan x="30" y="420">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡎⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+      <tspan x="30" y="440">⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡜⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    </text>
+  </g>
+
+  <!-- Profile Information Section shifted to X=500 -->
+  <g transform="translate(500,30)">
+    <!-- Header -->
+    <text class="valueColor">
+      <tspan x="0" y="0">rahan@profile</tspan>
+      <tspan x="0" y="20">-------------</tspan>
+    </text>
+
+    <!-- Basic Info -->
+    <g transform="translate(0,40)">
+      <text>
+        <tspan x="0" y="0">
+          <tspan class="keyColor">OS</tspan>: <tspan
+            class="valueColor"
+          >anything UNIX based (including xnu)</tspan>
+        </tspan>
+        <tspan x="0" y="20">
+          <tspan class="keyColor">Uptime</tspan>: <tspan
+            class="valueColor"
+          >old enough to spend responsibly</tspan>
+        </tspan>
+        <tspan x="0" y="60">
+          <tspan class="keyColor">Expertise</tspan>: <tspan
+            class="valueColor"
+          >systems programming</tspan>
+        </tspan>
+        <tspan x="0" y="80">
+          <tspan class="keyColor">IDE</tspan>: <tspan
+            class="valueColor"
+          >Nova</tspan>
+        </tspan>
+      </text>
     </g>
 
-    <!-- Profile Information Section -->
-    <g transform="translate(370,30)">
-        <!-- Header -->
-        <text class="valueColor">
-            <tspan x="0" y="0">rahan@benabid</tspan>
-            <tspan x="0" y="20">——————</tspan>
-        </text>
-
-        <!-- Basic Info -->
-        <g transform="translate(0,40)">
-            <text>
-                <tspan x="0" y="0"><tspan class="keyColor">OS</tspan>: <tspan class="valueColor">anything UNIX based (including xnu)</tspan></tspan>
-                <tspan x="0" y="20"><tspan class="keyColor">Uptime</tspan>: <tspan class="valueColor">old enough to spend responsibly</tspan></tspan>
-                <tspan x="0" y="60"><tspan class="keyColor">Expertise</tspan>: <tspan class="valueColor">systems programming</tspan></tspan>
-                <tspan x="0" y="80"><tspan class="keyColor">IDE</tspan>: <tspan class="valueColor">Nova</tspan></tspan>
-            </text>
-        </g>
-
-        <!-- Languages -->
-        <g transform="translate(0,160)">
-            <text>
-                <tspan x="0" y="0"><tspan class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Go, C, Swift, ex-JS</tspan></tspan>
-                <tspan x="0" y="40"><tspan class="keyColor">Languages</tspan>.<tspan class="keyColor">IRL</tspan>: <tspan class="valueColor">English, French</tspan></tspan>
-            </text>
-        </g>
-
-        <!-- Hobbies -->
-        <g transform="translate(0,240)">
-            <text>
-                <tspan x="0" y="0"><tspan class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Domain</tspan>: <tspan class="valueColor">Game Dev, Jailbreaking</tspan></tspan>
-                <tspan x="0" y="20"><tspan class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Other</tspan>: <tspan class="valueColor">Thinking of non-thinking</tspan></tspan>
-            </text>
-        </g>
-
-        <g transform="translate(0,300)">
-            <text>
-                <tspan x="0" y="0"><tspan class="keyColor">Contact</tspan>:</tspan>
-                <tspan x="0" y="20">——————</tspan>
-                <tspan x="0" y="40"><tspan class="keyColor">Email</tspan>: <tspan class="valueColor">rahannadime@icloud.com</tspan></tspan>
-                <tspan x="0" y="60"><tspan class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">Rahan Benabid</tspan></tspan>
-            </text>
-        </g>
+    <!-- Languages -->
+    <g transform="translate(0,160)">
+      <text>
+        <tspan x="0" y="0">
+          <tspan class="keyColor">Languages</tspan>.<tspan
+            class="keyColor"
+          >Programming</tspan>: <tspan
+            class="valueColor"
+          >Go, C, Swift, ex-JS</tspan>
+        </tspan>
+        <tspan x="0" y="40">
+          <tspan class="keyColor">Languages</tspan>.<tspan
+            class="keyColor"
+          >IRL</tspan>: <tspan class="valueColor">English, French</tspan>
+        </tspan>
+      </text>
     </g>
+
+    <!-- Hobbies -->
+    <g transform="translate(0,240)">
+      <text>
+        <tspan x="0" y="0">
+          <tspan class="keyColor">Hobbies</tspan>.<tspan
+            class="keyColor"
+          >Domain</tspan>: <tspan
+            class="valueColor"
+          >Game Dev, Jailbreaking</tspan>
+        </tspan>
+        <tspan x="0" y="20">
+          <tspan class="keyColor">Hobbies</tspan>.<tspan
+            class="keyColor"
+          >Other</tspan>: <tspan
+            class="valueColor"
+          >Thinking of non-thinking</tspan>
+        </tspan>
+      </text>
+    </g>
+
+    <!-- Contact -->
+    <g transform="translate(0,300)">
+      <text>
+        <tspan x="0" y="0">
+          <tspan class="keyColor">Email</tspan>: <tspan
+            class="valueColor"
+          >rahannadime@icloud.com</tspan>
+        </tspan>
+        <tspan x="0" y="20">
+          <tspan class="keyColor">LinkedIn</tspan>: <tspan
+            class="valueColor"
+          >Rahan Benabid</tspan>
+        </tspan>
+      </text>
+    </g>
+  </g>
 </svg>
